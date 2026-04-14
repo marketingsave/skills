@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "[Article Title]",
+  "description": "[Meta description]",
+  "image": "[Featured image URL]",
+  "author": {
+    "@type": "Person",
+    "name": "[Author Name]",
+    "url": "[Author URL]"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "[Business Name]",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "[Logo URL]"
+    }
+  },
+  "datePublished": "[YYYY-MM-DD]",
+  "dateModified": "[YYYY-MM-DD]"
+}
+</script>

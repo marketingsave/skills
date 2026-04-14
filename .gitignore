@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sync tools (Nextcloud/Syncthing — presentes no diretório pai)
+.stfolder/
+.stversions/
+.stignore
+*.sync_*.db
+.nextcloudsync.log
+
+# Claude Code config local (não versionar — é específico da máquina)
+.claude/
+.agents/
+
+# Node (se algum dia)
+node_modules/
+*.log
+
+# Python (se algum dia)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Backups / temporários
+_backup/
+*.bak
+*.tmp

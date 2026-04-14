@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "[How-To Title]",
+  "description": "[Description]",
+  "totalTime": "PT[N]M",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "[Step 1 name]",
+      "text": "[Step 1 instructions]",
+      "image": "[Step 1 image URL]"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "[Step 2 name]",
+      "text": "[Step 2 instructions]"
+    }
+  ]
+}
+</script>

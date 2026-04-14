@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "[Business Name]",
+  "url": "[Website URL]",
+  "logo": "[Logo URL]",
+  "description": "[Business description]",
+  "sameAs": [
+    "[Social profile URL 1]",
+    "[Social profile URL 2]"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "[Phone]",
+    "contactType": "customer service"
+  }
+}
+</script>
